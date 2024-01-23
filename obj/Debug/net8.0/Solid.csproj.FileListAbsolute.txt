@@ -1,0 +1,14 @@
+C:\Users\hazal\RiderProjects\Solid\Solid\bin\Debug\net8.0\Solid.exe
+C:\Users\hazal\RiderProjects\Solid\Solid\bin\Debug\net8.0\Solid.deps.json
+C:\Users\hazal\RiderProjects\Solid\Solid\bin\Debug\net8.0\Solid.runtimeconfig.json
+C:\Users\hazal\RiderProjects\Solid\Solid\bin\Debug\net8.0\Solid.dll
+C:\Users\hazal\RiderProjects\Solid\Solid\bin\Debug\net8.0\Solid.pdb
+C:\Users\hazal\RiderProjects\Solid\Solid\obj\Debug\net8.0\Solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hazal\RiderProjects\Solid\Solid\obj\Debug\net8.0\Solid.AssemblyInfoInputs.cache
+C:\Users\hazal\RiderProjects\Solid\Solid\obj\Debug\net8.0\Solid.AssemblyInfo.cs
+C:\Users\hazal\RiderProjects\Solid\Solid\obj\Debug\net8.0\Solid.csproj.CoreCompileInputs.cache
+C:\Users\hazal\RiderProjects\Solid\Solid\obj\Debug\net8.0\Solid.dll
+C:\Users\hazal\RiderProjects\Solid\Solid\obj\Debug\net8.0\refint\Solid.dll
+C:\Users\hazal\RiderProjects\Solid\Solid\obj\Debug\net8.0\Solid.pdb
+C:\Users\hazal\RiderProjects\Solid\Solid\obj\Debug\net8.0\Solid.genruntimeconfig.cache
+C:\Users\hazal\RiderProjects\Solid\Solid\obj\Debug\net8.0\ref\Solid.dll
